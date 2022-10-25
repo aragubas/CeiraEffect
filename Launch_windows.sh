@@ -1,0 +1,1 @@
+/mnt/c/Users/Ceira/Downloads/Portable\ Executables/CommanderX16Emulator/box16/Box16.exe -prg out/PROGRAM.PRG -scale 1

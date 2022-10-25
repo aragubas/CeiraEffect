@@ -1,0 +1,6 @@
+.vscode/**
+out/**
+dump.bin
+imgui.ini
+
+*.o
